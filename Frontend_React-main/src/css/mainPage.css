@@ -1,0 +1,49 @@
+body {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+  height: auto;
+  background-repeat: no-repeat;
+}
+
+@keyframes gradient {
+  0% {
+  background-position: 0% 50%;
+  }
+  50% {
+  background-position: 100% 50%;
+  }
+  100% {
+  background-position: 0% 50%;
+  }
+  }
+
+label.logo {
+  color: white;
+  font-size: 30px;
+  line-height: 80px;
+  padding: 0 20px;
+  letter-spacing: -1px;
+  font-weight: 800;
+  font-style: italic;
+  transition: .2s ease;
+  text-shadow: 3px 5px 20px #230622aa;
+}
+
+img{
+  width:600px;
+  height:auto;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+
+
+@keyframes gradient {
+  0%, 100%{
+    background-position: 0% 50%;
+  }
+  50%{
+    background-position: 100% 50%;
+  }
+}

@@ -1,0 +1,66 @@
+
+  .card {
+    --blur: 16px;
+    --size: clamp(300px, 50vmin, 300px);
+    width: var(--size);
+    aspect-ratio: 4 / 3;
+    position: relative;
+    border-radius: 2rem;
+    overflow: hidden;
+    color: #000;
+    transform: translateZ(0);
+  }
+  
+  .card__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: scale(calc(1 + (var(--hover, 0) * 0.25))) rotate(calc(var(--hover, 0) * -5deg));
+    transition: transform 0.2s;
+  }
+  
+  .card__footer {
+    padding: 0 1.5rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: red;
+    display: grid;
+    grid-template-rows: auto auto;
+    gap: 0.5ch;
+    background: hsl(0 0% 100% / 0.5);
+    height: 40%;
+    align-content: center;
+  }
+
+  .card__footer:hover{
+    backdrop-filter: blur(var(--blur));
+  }
+  
+  .card__footer span:nth-of-type(1) {
+    font-size: calc(var(--size) * 0.065);
+  }
+  
+  .card__footer span:nth-of-type(2) {
+    font-size: calc(var(--size) * 0.05);
+  }
+  
+  .card:is(:hover, :focus-visible) {
+    --hover: 1;
+  }
+
+  .bb-title {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.bb-title::before {
+   content: '';
+   position: absolute;
+   background-color: white;
+   width: 200px;
+   height: 3px;
+   bottom: -5px;
+}

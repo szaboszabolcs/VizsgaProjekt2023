@@ -1,0 +1,113 @@
+.bodyXd{
+  min-height: 100vh;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 400%;
+  animation: gradient 15s ease infinite;
+  background: no-repeat;
+}
+.position{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@keyframes gradient {
+  0% {
+  background-position: 0% 50%;
+  }
+  50% {
+  background-position: 100% 50%;
+  }
+  100% {
+  background-position: 0% 50%;
+  }
+}
+
+.login-container,.register-container, .login-form, .register-form{
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form input{
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 10px;
+}
+
+.login-form label{
+  text-align: left;
+  padding: 0.25rem 0;
+}
+
+.login-form button{
+  border: none;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  max-width: 200px;
+}
+
+.login-form button:hover {
+  transition: all 0.5s ease 0s;
+  box-shadow: rgba(100, 100, 121, 20) 0px 7px 29px 0px;
+  background-color: white;
+  color: black;
+}
+
+.register-form input{
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border: none;
+  border-radius: 10px;
+}
+
+.register-form label{
+  text-align: left;
+  padding: 0.25rem 0;
+}
+
+.register-form button{
+  border: none;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  max-width: 200px;
+}
+
+.register-form button:hover {
+  transition: all 0.5s ease 0s;
+  box-shadow: rgba(100, 100, 121, 20) 0px 7px 29px 0px;
+  background-color: white;
+  color: black;
+}
+
+.link-btn{
+  margin-top: 10px;
+  text-align: center;
+  background: none;
+  color: white;
+  text-decoration: underline;
+  max-width: 200px;
+}
+
+.link-btn2{
+  margin-top: 10px;
+  text-align: center;
+  background: none;
+  color: white;
+  text-decoration: underline;
+  max-width: 200px;
+}
