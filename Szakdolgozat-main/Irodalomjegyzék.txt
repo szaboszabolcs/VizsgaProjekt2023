@@ -1,0 +1,19 @@
+1. Téma: a phpMyAdmin bemutatása, Webcím: https://www.javatpoint.com/phpmyadmin , Letöltés dátuma: 2023.04.14.
+2. Téma: a React, Webcím: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started , Letöltés dátuma: 2023.04.17.
+3. Téma: Axios, Webcím: https://www.freecodecamp.org/news/how-to-use-axios-with-react/#what-is-axios , Letöltés dátuma: 2023.04.17.
+4. Téma: WPF-ről , Webcím : https://wpf-tutorial.com/hu/1/a-wpf-rol/mi-az-a-wpf/ , Letöltés dátuma: 2023.04.17.				 
+5. Téma: XAML a WPF-ben , Webcím:  https://www.c-sharpcorner.com/blogs/what-is-xaml122 , Letöltés dátuma: 2023.04.18.
+6. Téma: Mi a WEB API? , Webcím: https://www.tutorialsteacher.com/webapi/what-is-web-api , Letöltés dátuma: 2023.04.18.
+7. Téma: Entity Framework , Webcím: https://www.entityframeworktutorial.net/what-is-entityframework.aspx , Letöltés dátuma: 2023.04.18.
+8. Téma: .NET Framework , Webcím: https://codeinstitute.net/global/blog/what-is-net-framework/ , Letöltés dátuma: 2023.04.18.
+
+
+
+
+
+
+Képek:
+React logo ---------------- https://www.loginradius.com/blog/engineering/lazy-loading-in-react/
+WEB API ------------------- https://www.analyticsvidhya.com/blog/2022/10/most-commonly-asked-web-api-interview-questions/
+Entity Framework ---------- https://dotnettutorials.net/lesson/introduction-to-entity-framework/ 
+.NET Framework ------------ https://logos-world.net/net-framework-logo/
