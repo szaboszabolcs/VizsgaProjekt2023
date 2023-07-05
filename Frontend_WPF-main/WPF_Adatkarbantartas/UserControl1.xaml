@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="WPF_Adatkarbantartas.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_Adatkarbantartas"
+             mc:Ignorable="d" d:DesignWidth="1000" Height="865">
+
+    <Grid Margin="0,0,0,56">
+        <Image Source="/Images/homeimg.jpg" Margin="-6,0,-6,361"/>
+        <Label Name="lblTime" FontSize="48" HorizontalAlignment="Left" Margin="415,458,0,0" VerticalAlignment="Top" Height="83" Width="436" Foreground="White" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+        <Label Name="label1"  FontSize="24" HorizontalAlignment="Left" Margin="459,500,0,0" VerticalAlignment="Top" Width="218" Height="80" Foreground="White" FontFamily="Tw Cen MT Condensed Extra Bold"/>
+
+
+
+
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,20 @@
+﻿WPF_Adatkarbantartas
+1.0.0.0
+
+winexe
+C#
+.cs
+F:\Vizsgaremek bemutató\Frontend_WPF-main\WPF_Adatkarbantartas\obj\Debug\net5.0-windows\
+WPF_Adatkarbantartas
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+F:\Vizsgaremek bemutató\Frontend_WPF-main\WPF_Adatkarbantartas\App.xaml
+111485793973
+8737387923
+172120712472
+225-453968349
+FilmsControl.xaml;HomeWindow.xaml;Login.xaml;MainWindow.xaml;Styles\ButtonStyles.xaml;Styles\UIColors.xaml;UserControl1.xaml;UserControl2.xaml;Users.xaml;Windows\Felhasznalok.xaml;Windows\Filmek.xaml;
+
+False
+

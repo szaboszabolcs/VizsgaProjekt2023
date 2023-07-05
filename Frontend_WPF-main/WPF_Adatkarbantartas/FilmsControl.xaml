@@ -1,0 +1,76 @@
+﻿<UserControl x:Class="WPF_Adatkarbantartas.FilmsControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WPF_Adatkarbantartas" xmlns:local1="http://schemas.microsoft.com/netfx/2009/xaml/presentation"
+             mc:Ignorable="d" d:DesignWidth="800" Height="492">
+    <UserControl.Resources>
+        <local:ByteArrayToImageSourceConverter x:Key="ByteArrayToImageSourceConverter" />
+    </UserControl.Resources>
+
+    
+
+
+
+
+    <Grid Margin="0,10,0,35">
+        <DataGrid  ColumnWidth="*"
+                  Background="#200F53"
+                  VerticalContentAlignment="Center"
+                  FontSize="12"
+                  HorizontalContentAlignment="Center"
+                  BorderThickness="0" Name="Filmek" SelectionChanged="Filmek_adatai_Changed" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" Margin="10,-9,10,117">
+
+
+
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="Transparent"/>
+                    <Setter Property="Foreground" Value="#BCBEE0"/>
+                    <Setter Property="Padding" Value="10,0,0,10"/>
+                    <Setter Property="FontFamily" Value="Montserrat"/>
+                    <Setter Property="FontSize" Value="12"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Width="40" Binding="{Binding Id}" FontStyle="Normal"/>
+                <DataGridTextColumn Header="Cim" Width="200" Binding="{Binding Cim}"/>
+                <DataGridTextColumn Header="Kategoria" Width="90" Binding="{Binding Kategoria}"/>
+                <DataGridTextColumn Header="Leiras" Width="340" Binding="{Binding Leiras}"/>
+                <DataGridTextColumn Header="Ertekeles" Width="65" Binding="{Binding Ertekeles}"/>
+
+                <!-- Image column -->
+                <DataGridTemplateColumn Header="Filmlogo">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Filmlogo, Converter={StaticResource ByteArrayToImageSourceConverter}}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        
+        <Label Content="Cím:" HorizontalAlignment="Left" Margin="10,339,0,0" VerticalAlignment="Top" Foreground="White" Background="Red"/>
+        <TextBox HorizontalAlignment="Left" Name="txb_Cim" Margin="61,343,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Kategória:" HorizontalAlignment="Left" Margin="198,339,0,0" VerticalAlignment="Top" Foreground="White" Background="Red"/>
+        <TextBox HorizontalAlignment="Left" Name="txb_Kategoria" Margin="281,343,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Leírás:" HorizontalAlignment="Left" Margin="10,374,0,0" VerticalAlignment="Top" Foreground="White" Background="#FFFF0202"/>
+        <TextBox HorizontalAlignment="Left" Name="txb_Leiras" Margin="61,378,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="200"/>
+        <Label Content="Értékelés:" HorizontalAlignment="Left" Margin="281,374,0,0" VerticalAlignment="Top" Foreground="White" Background="#FFFF0F0F"/>
+        <TextBox HorizontalAlignment="Left" Name="txb_Ertekeles" Margin="346,378,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30"/>
+        <Label Content="Filmlogo:" HorizontalAlignment="Left" Margin="400,374,0,0" VerticalAlignment="Top" Foreground="White" Background="Red"/>
+        <TextBox HorizontalAlignment="Left" Name="txb_Filmlogo" Margin="467,378,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+
+        <Button Content="Tárolás" HorizontalAlignment="Left" Margin="291,414,0,0" VerticalAlignment="Top" Click="btn_Tarolas_Click"/>
+        <Button Content="Módosítás" HorizontalAlignment="Left" Margin="361,414,0,0" VerticalAlignment="Top" Click="btn_Modosit_Click"/>
+        <Button Content="Törlés" HorizontalAlignment="Left" Margin="450,414,0,0" VerticalAlignment="Top" Click="btn_Torles_Click"/>
+        <Button Content="Kép kiválasztása" HorizontalAlignment="Left" Margin="613,378,0,0" VerticalAlignment="Top" Click="AddImageButton_Click"/>
+
+
+
+
+    </Grid>
+</UserControl>
