@@ -1,0 +1,438 @@
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.json
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.exe
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.deps.json
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.json
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.dev.json
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\comerr64.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\gssapi64.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\k5sprt64.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krb5_64.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krbcc64.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.AssemblyReference.cache
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfoInputs.cache
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\scopedcss\bundle\ZaroFeladat.styles.css
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Manifest.cache
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Pack.cache
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.ZaroFeladat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.build.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.RazorTargetAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CopyComplete
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\refint\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.genruntimeconfig.cache
+C:\Users\Jakab Balázs Erik\Desktop\Backend\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ref\ZaroFeladat.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.deps.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.dev.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Humanizer.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\comerr64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\gssapi64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\k5sprt64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krb5_64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krbcc64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfoInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfo.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\scopedcss\bundle\ZaroFeladat.styles.css
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Manifest.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.RazorTargetAssemblyInfo.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CopyComplete
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\refint\ZaroFeladat.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.genruntimeconfig.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ref\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.exe
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.deps.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.dev.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\comerr64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\gssapi64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\k5sprt64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krb5_64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krbcc64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.AssemblyReference.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfoInputs.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\scopedcss\bundle\ZaroFeladat.styles.css
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Manifest.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Pack.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.ZaroFeladat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.build.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.RazorTargetAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CopyComplete
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\refint\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.genruntimeconfig.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat_Filmlogok_class_nelkul\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ref\ZaroFeladat.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.exe
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.deps.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.dev.json
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Humanizer.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\comerr64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\gssapi64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\k5sprt64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krb5_64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krbcc64.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.AssemblyReference.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfoInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfo.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CoreCompileInputs.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\scopedcss\bundle\ZaroFeladat.styles.css
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Manifest.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.RazorTargetAssemblyInfo.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CopyComplete
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\refint\ZaroFeladat.dll
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.genruntimeconfig.cache
+C:\Users\szabo\OneDrive\Asztali gép\Vizsgaremek aktív projekt\ZaroFeladat_Backend_Mukodokepes\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ref\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.exe
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.deps.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.dev.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\comerr64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\gssapi64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\k5sprt64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krb5_64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krbcc64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.AssemblyReference.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfoInputs.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\scopedcss\bundle\ZaroFeladat.styles.css
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Manifest.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Pack.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.ZaroFeladat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.build.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.RazorTargetAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CopyComplete
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\refint\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.genruntimeconfig.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 2.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ref\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.exe
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.deps.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.dev.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\comerr64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\gssapi64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\k5sprt64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krb5_64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krbcc64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.AssemblyReference.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfoInputs.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\scopedcss\bundle\ZaroFeladat.styles.css
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Manifest.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Pack.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.ZaroFeladat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.build.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.RazorTargetAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CopyComplete
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\refint\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.genruntimeconfig.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroFeladat 3.0\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ref\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.exe
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.deps.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.dev.json
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\comerr64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\gssapi64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\k5sprt64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krb5_64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krbcc64.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.AssemblyReference.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfoInputs.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CoreCompileInputs.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\scopedcss\bundle\ZaroFeladat.styles.css
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Manifest.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Pack.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.ZaroFeladat.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.build.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ZaroFeladat.props
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.RazorTargetAssemblyInfo.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CopyComplete
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\refint\ZaroFeladat.dll
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.pdb
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.genruntimeconfig.cache
+C:\Users\Jakab Balázs Erik\Downloads\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ref\ZaroFeladat.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.Development.json
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\appsettings.json
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.exe
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.deps.json
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.json
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.runtimeconfig.dev.json
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZaroFeladat.pdb
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Google.Protobuf.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Humanizer.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.Data.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\ZstdNet.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\comerr64.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\gssapi64.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\k5sprt64.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krb5_64.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\krbcc64.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.AssemblyReference.cache
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfoInputs.cache
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.AssemblyInfo.cs
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CoreCompileInputs.cache
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cs
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.MvcApplicationPartsAssemblyInfo.cache
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\scopedcss\bundle\ZaroFeladat.styles.css
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Manifest.cache
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\ZaroFeladat.StaticWebAssets.Pack.cache
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.ZaroFeladat.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.build.ZaroFeladat.props
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ZaroFeladat.props
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ZaroFeladat.props
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.RazorTargetAssemblyInfo.cache
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.csproj.CopyComplete
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\refint\ZaroFeladat.dll
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.pdb
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ZaroFeladat.genruntimeconfig.cache
+E:\Vizsgaremek bemutató\Backend-main\ZaroProjekt Backend Végleges\ZaroFeladat\ZaroFeladat\obj\Debug\net5.0\ref\ZaroFeladat.dll
